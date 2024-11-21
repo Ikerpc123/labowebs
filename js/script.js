@@ -22,7 +22,6 @@ document.addEventListener("DOMContentLoaded", function() {
             alert("Ingrese un mensaje, por favor");
             valid = false;
             }
-            
 
         if (!valid) {
             event.preventDefault();
