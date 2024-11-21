@@ -460,3 +460,29 @@ $ git push
 ![image-20241121124247457](./Ejercicio%20de%20Git%20-%20proyecto%20labowebs.assets/image-20241121124247457.png)
 
 ![image-20241121124437235](./Ejercicio%20de%20Git%20-%20proyecto%20labowebs.assets/image-20241121124437235.png)
+
+
+
+## Subida de documentación 
+
+En la carpeta del proyecto `labowebs` añade una carpeta `docs` . Copia en esa carpeta el fichero markdown y la carpeta con las imágenes. Incluye también el `pdf` . Añade todo al repositorio. Súbelo al remoto.
+
+![image-20241121130120548](./Ejercicio%20de%20Git%20-%20proyecto%20labowebs.assets/image-20241121130120548.png)
+
+![image-20241121130211651](C:/Users/alumno/AppData/Roaming/Typora/typora-user-images/image-20241121130211651.png)
+
+
+
+​	
+
+```
+$ git status
+$ git add .
+$ git push
+```
+
+![image-20241121130352147](C:/Users/alumno/AppData/Roaming/Typora/typora-user-images/image-20241121130352147.png)
+
+![image-20241121130401706](C:/Users/alumno/AppData/Roaming/Typora/typora-user-images/image-20241121130401706.png)
+
+![image-20241121130639025](C:/Users/alumno/AppData/Roaming/Typora/typora-user-images/image-20241121130639025.png)
